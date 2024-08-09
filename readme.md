@@ -39,3 +39,4 @@ cd fonts
 3. Install '**Inconsolata for Powerline**'. (Refer to the [powerline-fonts repo](https://github.com/powerline/fonts) for help on font installation.)
 4. Replace the `~/.minttyrc` file with the `.minttyrc` file in this repo.
 5. Restart your terminal.
+
